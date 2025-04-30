@@ -1,1 +1,0 @@
-# implementation-of-half_duplex-communication-using-fifo-ipc-mechanism
